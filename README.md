@@ -36,7 +36,7 @@ python manage.py runserver
 ```
 
 ## Flowchart:
-![alt text](link "Chatbot Flowchart")
+![alt text](https://github.com/zerothrohit/shakti-sih/blob/main/Substation%20Chatbot%20Flowchart.png "Chatbot Flowchart") 
 
 ## System Overview:
 
